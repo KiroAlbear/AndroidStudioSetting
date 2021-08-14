@@ -1,4 +1,12 @@
 <templateSet group="PreDefinedClasses">
+  <template name="Fragment" value="class $FragmentName$:$InheritedFragment$() {&#10;    lateinit var binding: $FragmentName$Binding&#10;    override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {&#10;        binding = DataBindingUtil.inflate(inflater, R.layout.$resource$,container,false)&#10;        return super.onCreateView(inflater, container, savedInstanceState)&#10;    }&#10;}" toReformat="false" toShortenFQNames="true">
+    <variable name="FragmentName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="InheritedFragment" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="resource" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
   <template name="ProgressBar" value="&lt;include&#10;                android:id=&quot;@+id/progressBar&quot;&#10;                android:layout_height=&quot;0dp&quot;&#10;                android:layout_width=&quot;0dp&quot;&#10;                layout=&quot;@layout/$progress_bar_layout$&quot;&#10;                app:layout_constraintStart_toStartOf=&quot;parent&quot;&#10;                app:layout_constraintTop_toTopOf=&quot;parent&quot;&#10;                app:layout_constraintBottom_toBottomOf=&quot;parent&quot;&#10;                app:layout_constraintEnd_toEndOf=&quot;parent&quot;&#10;                android:visibility=&quot;gone&quot;/&gt;&#10;" toReformat="false" toShortenFQNames="true">
     <variable name="progress_bar_layout" expression="" defaultValue="" alwaysStopAt="true" />
     <context>

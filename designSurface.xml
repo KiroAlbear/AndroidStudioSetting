@@ -82,6 +82,7 @@
         <entry key="..\:/Projects/Android/Cooking/OtbokhlyNew/app/src/main/res/layout/fragment_cart.xml" value="0.253125" />
         <entry key="..\:/Projects/Android/Cooking/OtbokhlyNew/app/src/main/res/layout/fragment_change_password.xml" value="0.1" />
         <entry key="..\:/Projects/Android/Cooking/OtbokhlyNew/app/src/main/res/layout/fragment_checkout_fly.xml" value="0.20925925925925926" />
+        <entry key="..\:/Projects/Android/Cooking/OtbokhlyNew/app/src/main/res/layout/fragment_delivery_adress.xml" value="0.253125" />
         <entry key="..\:/Projects/Android/Cooking/OtbokhlyNew/app/src/main/res/layout/fragment_dish_add_tobasket.xml" value="0.24814814814814815" />
         <entry key="..\:/Projects/Android/Cooking/OtbokhlyNew/app/src/main/res/layout/fragment_dishes_home.xml" value="0.253125" />
         <entry key="..\:/Projects/Android/Cooking/OtbokhlyNew/app/src/main/res/layout/fragment_forget_password.xml" value="0.24814814814814815" />
@@ -95,6 +96,7 @@
         <entry key="..\:/Projects/Android/Cooking/OtbokhlyNew/app/src/main/res/layout/item_portion.xml" value="0.253125" />
         <entry key="..\:/Projects/Android/Cooking/OtbokhlyNew/app/src/main/res/layout/payment_summary_layout.xml" value="0.253125" />
         <entry key="..\:/Projects/Android/Cooking/OtbokhlyNew/app/src/main/res/layout/progress_bar_layout.xml" value="0.13518518518518519" />
+        <entry key="..\:/Projects/Android/Cooking/OtbokhlyNew/app/src/main/res/layout/progress_bar_layout_clickable.xml" value="0.253125" />
         <entry key="..\:/Projects/Android/Cooking/OtbokhlyNew/app/src/main/res/layout/row_section_header.xml" value="0.1" />
         <entry key="..\:/Projects/Android/Cooking/OtbokhlyNew/app/src/main/res/menu/bottom_navigation.xml" value="0.253125" />
         <entry key="..\:/Projects/Android/Cooking/SuperWing/app/src/main/res/drawable/rectangle_shape_dish_card.xml" value="0.2518518518518518" />

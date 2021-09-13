@@ -2,6 +2,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Projects/Android/Android Handover/Android Projects Design Only/OscarMarket/app/src/main/res/layout/activity_main.xml" value="0.253125" />
+        <entry key="..\:/Projects/Android/Android Handover/Android Projects Design Only/OscarMarket/app/src/main/res/layout/empty_address.xml" value="0.253125" />
+        <entry key="..\:/Projects/Android/Android Handover/Android Projects Design Only/OscarMarket/app/src/main/res/layout/empty_home_page.xml" value="0.253125" />
+        <entry key="..\:/Projects/Android/Android Handover/Android Projects Design Only/OscarMarket/app/src/main/res/layout/empty_item_details.xml" value="0.253125" />
+        <entry key="..\:/Projects/Android/Android Handover/Android Projects Design Only/OscarMarket/app/src/main/res/layout/home.xml" value="0.253125" />
+        <entry key="..\:/Projects/Android/Android Handover/Android Projects Design Only/OscarMarket/app/src/main/res/layout/log_in.xml" value="0.253125" />
         <entry key="..\:/Projects/Android/Android Handover/Exhibit/app/src/main/res/layout/activity_edite_profile.xml" value="0.253125" />
         <entry key="..\:/Projects/Android/Android Handover/Exhibit/app/src/main/res/layout/activity_main.xml" value="0.253125" />
         <entry key="..\:/Projects/Android/Android Handover/Exhibit/app/src/main/res/layout/fragment_edite_profile.xml" value="0.253125" />
@@ -55,6 +61,10 @@
         <entry key="..\:/Projects/Android/Android Handover/ExpertJobsapp/app/src/main/res/layout/activity_preferences.xml" value="0.264" />
         <entry key="..\:/Projects/Android/Android Handover/ExpertJobsapp/app/src/main/res/layout/activity_registration.xml" value="0.253125" />
         <entry key="..\:/Projects/Android/Android Handover/ExpertJobsapp/app/src/main/res/layout/fragment_home.xml" value="0.12916666666666668" />
+        <entry key="..\:/Projects/Android/Android Handover/Oscar/app/src/main/res/drawable/bk_round.xml" value="0.2682291666666667" />
+        <entry key="..\:/Projects/Android/Android Handover/Oscar/app/src/main/res/layout/activity_login.xml" value="0.253125" />
+        <entry key="..\:/Projects/Android/Android Handover/Oscar/app/src/main/res/layout/activity_main.xml" value="0.253125" />
+        <entry key="..\:/Projects/Android/Android Handover/Oscar/app/src/main/res/layout/activity_splash_screen.xml" value="0.253125" />
         <entry key="..\:/Projects/Android/Android Handover/The_Licking_2/app/src/main/res/layout/activity_add_adress.xml" value="0.253125" />
         <entry key="..\:/Projects/Android/Android Handover/The_Licking_2/app/src/main/res/layout/activity_cashless.xml" value="0.253125" />
         <entry key="..\:/Projects/Android/Android Handover/The_Licking_2/app/src/main/res/layout/activity_change_password.xml" value="0.253125" />
@@ -155,7 +165,7 @@
         <entry key="..\:/Projects/Android/Cooking/TheJet/TheJet - Copy (4)/app/src/main/res/layout/activity_img_restaurant.xml" value="0.21851851851851853" />
         <entry key="..\:/Projects/Android/Cooking/TheJet/TheJet - Copy (4)/app/src/main/res/layout/activity_language.xml" value="0.22407407407407406" />
         <entry key="..\:/Projects/Android/Cooking/TheJet/TheJet - Copy (4)/app/src/main/res/layout/activity_login.xml" value="0.253125" />
-        <entry key="..\:/Projects/Android/Cooking/TheJet/TheJet - Copy (4)/app/src/main/res/layout/activity_main.xml" value="0.21851851851851853" />
+        <entry key="..\:/Projects/Android/Cooking/TheJet/TheJet - Copy (4)/app/src/main/res/layout/activity_main.xml" value="0.253125" />
         <entry key="..\:/Projects/Android/Cooking/TheJet/TheJet - Copy (4)/app/src/main/res/layout/activity_map.xml" value="0.21851851851851853" />
         <entry key="..\:/Projects/Android/Cooking/TheJet/TheJet - Copy (4)/app/src/main/res/layout/activity_phone_verification.xml" value="0.253125" />
         <entry key="..\:/Projects/Android/Cooking/TheJet/TheJet - Copy (4)/app/src/main/res/layout/activity_sign_up.xml" value="0.21851851851851853" />

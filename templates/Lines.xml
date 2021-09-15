@@ -4,8 +4,9 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="begTransaction" value=".beginTransaction().replace(R.id.$container_framelayout$, fragment).addToBackStack(null).commit()" toReformat="false" toShortenFQNames="true">
+  <template name="begTransaction" value="supportFragmentManager.beginTransaction().replace(R.id.$container_framelayout$, $fragment$).addToBackStack(null).commit()" toReformat="false" toShortenFQNames="true">
     <variable name="container_framelayout" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="fragment" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />
     </context>

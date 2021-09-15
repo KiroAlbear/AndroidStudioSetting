@@ -1,5 +1,5 @@
 <templateSet group="PreDefinedClasses">
-  <template name="Fragment" value="class $FragmentName$:$InheritedFragment$() {&#10;    lateinit var binding: $FragmentName$Binding&#10;    override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {&#10;        binding = DataBindingUtil.inflate(inflater, R.layout.$resource$,container,false)&#10;        return super.onCreateView(inflater, container, savedInstanceState)&#10;    }&#10;}" description="" toReformat="false" toShortenFQNames="true">
+  <template name="Fragment" value="class $FragmentName$:$InheritedFragment$() {&#10;    lateinit var binding: $FragmentName$Binding&#10;    override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {&#10;        binding = DataBindingUtil.inflate(inflater, R.layout.$resource$,container,false)&#10;        return binding.root&#10;    }&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="FragmentName" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="InheritedFragment" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="resource" expression="" defaultValue="" alwaysStopAt="true" />

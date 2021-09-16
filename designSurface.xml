@@ -7,6 +7,15 @@
         <entry key="..\:/Projects/Android/Android Handover/Android Projects Design Only/OscarMarket/app/src/main/res/layout/empty_home_page.xml" value="0.253125" />
         <entry key="..\:/Projects/Android/Android Handover/Android Projects Design Only/OscarMarket/app/src/main/res/layout/empty_item_details.xml" value="0.253125" />
         <entry key="..\:/Projects/Android/Android Handover/Android Projects Design Only/OscarMarket/app/src/main/res/layout/home.xml" value="0.253125" />
+        <entry key="..\:/Projects/Android/Android Handover/Android Projects Design Only/OscarMarket/app/src/main/res/layout/item_home_page_rectangle.xml" value="0.253125" />
+        <entry key="..\:/Projects/Android/Android Handover/Android Projects Design Only/OscarMarket/app/src/main/res/layout/item_home_page_square.xml" value="0.253125" />
+        <entry key="..\:/Projects/Android/Android Handover/Android Projects Design Only/OscarMarket/app/src/main/res/layout/item_my_favourites.xml" value="0.253125" />
+        <entry key="..\:/Projects/Android/Android Handover/Android Projects Design Only/OscarMarket/app/src/main/res/layout/item_orders_coder_4colors.xml" value="0.253125" />
+        <entry key="..\:/Projects/Android/Android Handover/Android Projects Design Only/OscarMarket/app/src/main/res/layout/item_party_list.xml" value="0.253125" />
+        <entry key="..\:/Projects/Android/Android Handover/Android Projects Design Only/OscarMarket/app/src/main/res/layout/item_pastries_desserts.xml" value="0.253125" />
+        <entry key="..\:/Projects/Android/Android Handover/Android Projects Design Only/OscarMarket/app/src/main/res/layout/item_search_categories.xml" value="0.253125" />
+        <entry key="..\:/Projects/Android/Android Handover/Android Projects Design Only/OscarMarket/app/src/main/res/layout/item_search_categories_large_rectangle.xml" value="0.253125" />
+        <entry key="..\:/Projects/Android/Android Handover/Android Projects Design Only/OscarMarket/app/src/main/res/layout/item_search_categories_small_rectangle.xml" value="0.253125" />
         <entry key="..\:/Projects/Android/Android Handover/Android Projects Design Only/OscarMarket/app/src/main/res/layout/log_in.xml" value="0.253125" />
         <entry key="..\:/Projects/Android/Android Handover/Android Projects Design Only/OscarMarket/app/src/main/res/layout/nav_bar_bottom.xml" value="0.253125" />
         <entry key="..\:/Projects/Android/Android Handover/Android Projects Design Only/OscarMarket/app/src/main/res/layout/sign_up.xml" value="0.253125" />
@@ -85,6 +94,7 @@
         <entry key="..\:/Projects/Android/Android Handover/Oscar/app/src/main/res/layout/fragment_forget_password.xml" value="0.253125" />
         <entry key="..\:/Projects/Android/Android Handover/Oscar/app/src/main/res/layout/fragment_header_home.xml" value="0.253125" />
         <entry key="..\:/Projects/Android/Android Handover/Oscar/app/src/main/res/layout/fragment_next_page.xml" value="0.253125" />
+        <entry key="..\:/Projects/Android/Android Handover/Oscar/app/src/main/res/layout/item_category.xml" value="0.253125" />
         <entry key="..\:/Projects/Android/Android Handover/Oscar/app/src/main/res/layout/nav_bar_bottom.xml" value="0.24722222222222223" />
         <entry key="..\:/Projects/Android/Android Handover/Oscar/app/src/main/res/layout/progress_bar_layout.xml" value="0.253125" />
         <entry key="..\:/Projects/Android/Android Handover/Oscar/app/src/main/res/layout/sign_up_verify.xml" value="0.253125" />

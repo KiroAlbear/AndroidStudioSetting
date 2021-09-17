@@ -16,4 +16,11 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="compositDisposable" value="       compositeDisposable.add($Client$.instance!!.$function$&#10;            .subscribeOn(Schedulers.io())&#10;            .observeOn(AndroidSchedulers.mainThread())&#10;            .subscribe ({&#10;                response -&gt;&#10;                &#10;&#10;            },{ e -&gt;&#10;&#10;            }&#10;&#10;        ))" toReformat="false" toShortenFQNames="true">
+    <variable name="Client" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="function" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>

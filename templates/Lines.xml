@@ -23,7 +23,7 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="onClick" value="android:onClick=&quot;@{view -&gt; vm.$onHomeClicked$(view)}&quot;" toReformat="false" toShortenFQNames="true">
+  <template name="onClick" value="android:onClick=&quot;@{view -&gt; vm.$onHomeClicked$(view)}&quot;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="onHomeClicked" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="XML" value="true" />

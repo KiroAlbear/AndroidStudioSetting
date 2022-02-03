@@ -28,4 +28,14 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="Adapter2" value="package com.example.pharmacy.ui.store.home&#10;&#10;import android.view.LayoutInflater&#10;import android.view.ViewGroup&#10;import android.view.View&#10;import androidx.databinding.DataBindingUtil&#10;import androidx.recyclerview.widget.RecyclerView&#10;&#10;&#10;class $SliderAdapter$: RecyclerView.Adapter&lt;RecyclerView.ViewHolder&gt;() {&#10;&#10;    var mlist = listOf&lt;$ObjectName$&gt;()&#10;&#10;&#10;    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int):RecyclerView.ViewHolder {&#10;        var itemBinding:$ItemBinding$ = DataBindingUtil.inflate(LayoutInflater.from(parent.context), R.layout.$layout$, parent, false)&#10;        return  $ViewHolder$(itemBinding.root, itemBinding)&#10;    }&#10;&#10;    override fun onBindViewHolder(holder: RecyclerView.ViewHolder, position: Int) {&#10;        (holder as $ViewHolder$).bind(mlist[position])&#10;    }&#10;    &#10;   fun setList(mlist:List&lt;$ObjectName$&gt;){&#10;        this.mlist = mlist&#10;    }&#10;&#10;    override fun getItemCount(): Int {&#10;        return mlist.size&#10; }&#10;&#10;    class $ViewHolder$(itemView: View, itemRowBinding:$ItemBinding$ ) : RecyclerView.ViewHolder(itemView) {&#10;        var itemRowBinding:$ItemBinding$  = itemRowBinding&#10;        fun bind(item: $ObjectName$){&#10;          &#10;        }&#10;    }&#10;    &#10;}" toReformat="false" toShortenFQNames="true">
+    <variable name="SliderAdapter" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ObjectName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ViewHolder" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="layout" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ItemBinding" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>
